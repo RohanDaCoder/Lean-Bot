@@ -1,4 +1,5 @@
-# Lean-Bot
+# Lean
+# A Discord Bot
 
 Source Code Of Lean
 
